@@ -1,0 +1,6 @@
+ACCOUNT_EXIST = "Account already exists"
+INCORRECT_LOGIN = "Incorrect email or password"
+NOTCONFIRMED = "Email not confirmed"
+VERIFICATION_ERROR = "Verification error"
+ALREADY_CONFIRMED = "Email already confirmed"
+CONFIRMED = "Email confirmed"
